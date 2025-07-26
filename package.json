@@ -27,6 +27,7 @@
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "@types/three": "^0.178.1",
+    "critters": "^0.0.25",
     "eslint": "^9",
     "eslint-config-next": "15.4.3",
     "husky": "^9.1.7",
