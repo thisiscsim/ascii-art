@@ -25,6 +25,14 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <head>
+        <link rel="prefetch" href="/phasing" />
+        <link rel="prefetch" href="/shader" />
+        <link rel="prefetch" href="/mobius" />
+        <link rel="prefetch" href="/motif" />
+        <link rel="prefetch" href="/spiral" />
+        <link rel="prefetch" href="/eclipse" />
+      </head>
       <body
         className={`${geistSans.variable} ${geistMono.variable} antialiased`}
       >
